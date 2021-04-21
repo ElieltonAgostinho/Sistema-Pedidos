@@ -1,0 +1,18 @@
+
+ body{
+ 	background-color: #363e51; 
+ 	/*eceef1*/
+ }
+ 
+ .inpForm{
+ 	margin-left: 12px;
+ 	width: 93%;
+ 	background-color: #eceef1; 
+ }
+ #btnEntrar{
+ 	margin-left: 12px;
+ }
+ #imgPerson{
+ 	float: left;
+ 	margin-top: -0.7em;
+ }

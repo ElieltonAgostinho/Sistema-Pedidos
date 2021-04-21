@@ -1,0 +1,32 @@
+
+ body{
+ 	background-color: #eff2f8; 
+ 	/*eceef1*/
+ }
+ 
+ .inpForm{
+ 	margin-left: 12px;
+ 	width: 93%;
+ 	background-color: #eceef1; 
+ }
+ #btnEntrar{
+ 	margin-left: 12px;
+ }
+ #imgPerson{
+ 	float: left;
+ 	margin-top: -0.7em;
+ }
+ #imgList{
+ 	float: left;
+ }
+ .navbar{
+ 	margin-left: 35%;
+ }
+ ul li a{
+ 	color: #fff;
+ }
+
+ ul li a:hover{
+ 	color: #fff;
+ 	background-color: rgba(255,255,255,0.1);
+ }
